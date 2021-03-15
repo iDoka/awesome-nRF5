@@ -15,6 +15,12 @@
 * [BLE_HID_GamePad](https://github.com/mmoldsvor/BLE_HID_GamePad) - A HID GamePad design using the nRF52840 for BLE
 
 
+## HomeKit
+
+* [aanon4-HomeKit](https://github.com/aanon4/HomeKit) - HomeKit for Bluetooth Low Energy (BLE) for Nordic nRF51/nRF52
+* [homekit-ble-temp-humid-sensor](https://github.com/danielpgross/homekit-ble-temp-humid-sensor) - HomeKit temperature/humidity sensor for nRF52832
+* [IOS-nRF-For-HomeKit](https://github.com/NordicPlayground/IOS-nRF-For-HomeKit) - nRF For HomeKit app works with Nordic Semiconductor's Bluetooth Low Energy SDK for HomeKit and it uses Apple IOS HomeKit API
+
 
 ## unsorted
 
