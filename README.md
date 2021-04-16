@@ -1,5 +1,10 @@
 # nRF51/nRF52 stuff
 
+## Entry point
+
+* [github NordicSemiconductor](https://github.com/NordicSemiconductor) - Nordic Semiconductor's official GitHub account. Contains officially supported repositories.
+* [github NordicPlayground](https://github.com/NordicPlayground) - Nordic Semiconductor's secondary GitHub account, for emerging and unsupported projects.
+
 
 ## Build systems
 
@@ -21,6 +26,9 @@
 * [homekit-ble-temp-humid-sensor](https://github.com/danielpgross/homekit-ble-temp-humid-sensor) - HomeKit temperature/humidity sensor for nRF52832
 * [IOS-nRF-For-HomeKit](https://github.com/NordicPlayground/IOS-nRF-For-HomeKit) - nRF For HomeKit app works with Nordic Semiconductor's Bluetooth Low Energy SDK for HomeKit and it uses Apple IOS HomeKit API
 
+## Host side
+
+* [pc-nrfconnect-programmer](https://github.com/NordicSemiconductor/pc-nrfconnect-programmer) - Programmer app for nRF Connect for Desktop
 
 ## unsorted
 
