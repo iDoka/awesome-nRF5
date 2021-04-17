@@ -22,8 +22,13 @@
 
 ## HomeKit
 
+* [Building a battery-powered wireless sensor using Bluetooth Low-Energy (BLE) and Apple HomeKit (Part 1)](https://dgross.ca/blog/ble-homekit-sensor-pt1)
+* [Building a battery-powered wireless sensor using Bluetooth Low-Energy (BLE) and Apple HomeKit (Part 2)](https://dgross.ca/blog/ble-homekit-sensor-pt2)
+* [Building a battery-powered wireless sensor using Bluetooth Low-Energy (BLE) and Apple HomeKit (Part 3)](https://dgross.ca/blog/ble-homekit-sensor-pt3)
+
 * [aanon4-HomeKit](https://github.com/aanon4/HomeKit) - HomeKit for Bluetooth Low Energy (BLE) for Nordic nRF51/nRF52
 * [homekit-ble-temp-humid-sensor](https://github.com/danielpgross/homekit-ble-temp-humid-sensor) - HomeKit temperature/humidity sensor for nRF52832
+* [BlonkenLights](https://github.com/drewcassidy/BlonkenLights) - BLE Homekit RGB light firmware
 * [IOS-nRF-For-HomeKit](https://github.com/NordicPlayground/IOS-nRF-For-HomeKit) - nRF For HomeKit app works with Nordic Semiconductor's Bluetooth Low Energy SDK for HomeKit and it uses Apple IOS HomeKit API
 
 ## Host side
