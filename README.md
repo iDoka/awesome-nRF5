@@ -1,5 +1,6 @@
 # nRF51/nRF52 stuff
 
+
 ## Entry point
 
 * [github NordicSemiconductor](https://github.com/NordicSemiconductor) - Nordic Semiconductor's official GitHub account. Contains officially supported repositories.
@@ -31,9 +32,21 @@
 * [BlonkenLights](https://github.com/drewcassidy/BlonkenLights) - BLE Homekit RGB light firmware
 * [IOS-nRF-For-HomeKit](https://github.com/NordicPlayground/IOS-nRF-For-HomeKit) - nRF For HomeKit app works with Nordic Semiconductor's Bluetooth Low Energy SDK for HomeKit and it uses Apple IOS HomeKit API
 
+
 ## Host side
 
 * [pc-nrfconnect-programmer](https://github.com/NordicSemiconductor/pc-nrfconnect-programmer) - Programmer app for nRF Connect for Desktop
+
+
+
+
+## Libs
+
+* [P256-Cortex-M4](https://github.com/Emill/P256-Cortex-M4) - P-256 ECDSA/ECDH (secp256r1) for nRF52840, nRF5340 and MAX32670
+* [nrfconnect-sdk](https://github.com/nrfconnect/sdk-nrf) - nRF Connect SDK main repository
+* [nrfxlib](https://github.com/nrfconnect/sdk-nrfxlib) - Nordic common libraries
+
+
 
 ## unsorted
 
