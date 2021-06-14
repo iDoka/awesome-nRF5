@@ -48,6 +48,15 @@
 
 
 
+
+## Hardware
+
+
+* [NRF52-Board](https://github.com/jpconstantineau/NRF52-Board) - a collection of NRF5x boards
+
+
+
+
 ## unsorted
 
 * []()
